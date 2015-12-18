@@ -1,4 +1,6 @@
 # TiT
+
+[![Join the chat at https://gitter.im/OCSStar/TiT](https://badges.gitter.im/OCSStar/TiT.svg)](https://gitter.im/OCSStar/TiT?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Our Conquest is the Sea of Stars
 
 组成员：
