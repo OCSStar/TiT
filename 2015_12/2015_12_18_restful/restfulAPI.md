@@ -167,6 +167,9 @@ Content-Type: application/json; charset=utf-8
 >这种无状态通信原则，使得服务端和中介能够理解独立的请求和响应。
 >在多次请求中，同一客户端也不再需要依赖于同一服务器，方便实现高可扩展和高可用性的服务端。
 
+####补充
+>Pluralization: 资源量
+>CORS: 跨域问题
 ##与SOAP的比较
 >the main difference between SOAP and REST is the degree of coupling between
 >client and server implementations. A SOAP client works like a custom desktop
